@@ -11,10 +11,17 @@ https://weshdakcvcavawlala.streamlit.app/
 
 # Installation :
 1- Make sure you create a virtual environment.
+
 2- Install the requirements using the command :
+
  pip install -r requirements.txt
+ 
 3- Import the cvs and job description dataset 
+
 Link : https://drive.google.com/drive/folders/1GwhG0677VyUEP04bqD9lairl_Lff0s13?usp=drive_link
+
 4- Run the app using the command :
+
  streamlit run cvcv.py
+ 
 5- Test whether your CV cv? ;)
